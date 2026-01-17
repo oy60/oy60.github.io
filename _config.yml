@@ -16,7 +16,7 @@ timezone:
 
 title: Current_Element # the main title
 
-tagline: 你总是不知道接下来会发生什么 # it will display as the subtitle
+tagline: 你总是不知道<br>接下来会发生什么 # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
